@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Tajawal", sans-serif;
+    background-color: #1A1A1A;
+    direction: rtl;
+}
+
+.main-project {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://sadka-jaria.com/wp-content/themes/os-company/assets/sadka-images/sec-1-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.project-content img {
+    width: 300px;
+    margin-right: 570px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.name p {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.name2 p {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+
+.name3 p {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    direction: rtl;
+}
+
+section#main2 img {
+    width: 500px;
+    max-width: 500px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sura{
+    justify-content: space-evenly;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.name-sura{
+    padding-bottom: 17px;
+    padding-top: 2px;
+}
+
+.start-sura{
+    padding-bottom: 17px;
+    padding-top: 2px;
+}
+
+@media screen and (max-width: 1400px){
+        
+}

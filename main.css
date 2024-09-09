@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2rem;
+    /* ظبط الحاجة راسياً مش افقياً */
+}
+
+section{
+    padding: 0 24px;
+}
